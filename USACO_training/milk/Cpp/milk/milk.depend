@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573311750 source:/home/jx/Desktop/USACO_training/milk/Cpp/milk/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,3 @@
+C:/Users/Yi/Git/USACO/2022-12/CowCollege/cmake-build-debug/CMakeFiles/CowCollege.dir
+C:/Users/Yi/Git/USACO/2022-12/CowCollege/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yi/Git/USACO/2022-12/CowCollege/cmake-build-debug/CMakeFiles/rebuild_cache.dir

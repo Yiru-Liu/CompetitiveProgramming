@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573246605 source:/home/jx/Desktop/USACO_training/dualpal/Cpp/dualpal/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+

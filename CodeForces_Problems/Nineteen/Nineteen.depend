@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561056529 source:/home/jx/Desktop/CodeForces_Problems/Nineteen/main.cpp
+	<iostream>
+	<algorithm>
+

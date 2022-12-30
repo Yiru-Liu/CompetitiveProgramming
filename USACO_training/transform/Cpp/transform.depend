@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572107790 source:/home/jx/Desktop/USACO_training/transform/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

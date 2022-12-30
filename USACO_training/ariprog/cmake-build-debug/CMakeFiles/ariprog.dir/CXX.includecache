@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jx/Desktop/CompetitiveProgramming/USACO_training/ariprog/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+

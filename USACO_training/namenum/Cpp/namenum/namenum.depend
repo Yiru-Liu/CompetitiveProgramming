@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572810178 source:/home/jx/Desktop/USACO_training/namenum/Cpp/namenum/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

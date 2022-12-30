@@ -1,0 +1,3 @@
+/home/jx/Desktop/CompetitiveProgramming/USACO_training/ariprog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jx/Desktop/CompetitiveProgramming/USACO_training/ariprog/cmake-build-debug/CMakeFiles/ariprog.dir
+/home/jx/Desktop/CompetitiveProgramming/USACO_training/ariprog/cmake-build-debug/CMakeFiles/edit_cache.dir

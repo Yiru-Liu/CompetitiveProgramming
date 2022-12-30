@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572815782 source:/home/jx/Desktop/USACO_training/palsquare/Cpp/palsquare/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
